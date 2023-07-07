@@ -13,7 +13,7 @@ currentDate = date.today().isoformat()
 
 
 url = ('https://newsapi.org/v2/everything?'
-       'q=climate change&'
+       'q=sustainability&'
        'from=2023-07-05&'
        'sortBy=relavance&'
        f'apiKey={API_KEY}')
